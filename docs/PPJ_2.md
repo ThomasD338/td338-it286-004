@@ -13,7 +13,7 @@ The main thing I did this week was create functionality for the heartbeat system
 The final versions of the individual and team contracts were due. The team worked together to make revisions to the team contract. I referenced my aspects on the team contract to help build out the rest of my individual contract.
 
 ## Image(s)
-![image](td338-it286-004/assets/ppj2.png)
+![image](assets/ppj2.png)
 
 
 ## Looking Ahead
