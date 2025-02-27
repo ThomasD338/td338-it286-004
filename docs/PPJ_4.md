@@ -17,7 +17,6 @@ While I did write down that I was going to help with the title screen in my mile
 
 ## Milestones
 Individual Milestone 1: Adding on to what was said in the blog, most of what I did this week was finishing up requirements for my milestone 1. While I didn't get to contribute much to the title screen portion that I noted down, I plan to work on the options menu with Denise soon.
-![video](milestone1.mp4)
 
 ## Looking Ahead
 Paulo and I need to work together on integrating his sounds to play at the right times for the lamp and heartbeat. I'll have to update the lamp model to Michael's new one soon. I'd also like to begin work on the next hallucination event, which is going to be the toy chest in the room that'll have a bunch of toys flying out of it, and the player will have to drag them back into the chest. Come to think of it, that logic shouldn't be that different from the ball and chain on the lamp!
