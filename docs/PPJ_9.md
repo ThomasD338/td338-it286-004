@@ -12,7 +12,7 @@
 In preparation for our playtest, Denise and I thought it would be a good idea to start implementing "readability" features that would better communicate the objectives of the game. This way, we would get more information out of the playtesters than just just "I don't know what to do" (though admittedly, a lot of this did still happen). I decided to implement a tutorial segment where the player can become familiar with each of the hallucination events in a risk-free environment. This took quite a lot of my time, but I'm very happy with how it turned out and the large leap in progress this sprint gives us.
 
 ## Image(s)
-![Image](ppj9.png)
+![Image](assets/ppj9.png)
 
 ## Milestones
 We had the first playtest report due on Tuesday of this week. Some things inevitably went wrong, but that was absolutely to be expected. Our restart functionality was broken, but only in the built WebGL version. The Unity project functioned completely normally. So basically I have absolutely no idea what's wrong and don't know how to go about troubleshooting it! :)))
