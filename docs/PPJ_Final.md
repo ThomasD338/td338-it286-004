@@ -18,9 +18,9 @@ As the lead programmer, I was responsible for a lot of the backend logic, among 
 ## Negatives
   Working in a team is hard! We had several communication issues, and we've all went radio-silent on the team at least once each. I especially don't think I was very good in communicating, as outside of when it was brought up in meetings, I would rarely update my team on what I've been working on. I think that I wouldn't give frequent updates because I'd feel embarrassed by how little I was able to accomplish, but even then, I feel like a small update on what's been going on is better than literally nothing at all. 
 
-  Perhaps it was due to a lack of familiarity with how the softwares interact, but there were definitely some issues with models going between Blender and Unity. Objects anchored in weird places, the default light and camera sneaking in with the model, scaling issues, and more. I'm sure it's just something that comes with experience, because eventually this became a non-issue by the end of the semester.
+  Perhaps it was due to a lack of familiarity with how the softwares interact, but there were definitely some issues with models imported from Blender into Unity. Objects anchored in weird places, the default light and camera sneaking in with the model, scaling issues, and more. I'm sure it's just something that comes with experience, because eventually this became a non-issue by the end of the semester.
 
 ## Gallery
-![Image](ppj_final.png)
-![Image](ppj_final_2.png)
-![Image](ppj_final_3.png)
+![Image](assets/ppj_final.png)
+![Image](assets/ppj_final_2.png)
+![Image](assets/ppj_final_3.png)
